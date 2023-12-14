@@ -12,6 +12,10 @@ I'm very motivated to become a skilled and professional Android developer. I bel
 * ✅ MVVM, COROUTINES
 * 🖥️ Retrofit, Gson, Json, XML, GLIDE, DEXTER
 
+## Examples of Work
+
+<img src = "Screenshot_20231214-144526_NewsAppMyself.jpg" width = "256"/>
+
 
 - 🌱 I’m currently learning Android Development 
 
