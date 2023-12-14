@@ -15,6 +15,15 @@ I'm very motivated to become a skilled and professional Android developer. I bel
 ## Examples of Work
 
 <img src = "Screenshot_20231214-144526_NewsAppMyself.jpg" width = "256"/>
+<img src = "Screenshot_20231214-144538_NewsAppMyself.jpg" width = "256"/>
+<img src = "Screenshot_20231214-144554_NewsAppMyself.jpg" width = "256"/>
+<img src = "Screenshot_20231214-144621_FoodApp.jpg" width = "256"/>
+<img src = "Screenshot_20231214-144632_FoodApp.jpg" width = "256"/>
+<img src = "Screenshot_20231214-144644_FoodApp.jpg" width = "256"/>
+<img src = "Screenshot_20231214-144700.jpg" width = "256"/>
+<img src = "Screenshot_20231214-144952_Selfie.jpg" width = "256"/>
+
+
 
 
 - 🌱 I’m currently learning Android Development 
