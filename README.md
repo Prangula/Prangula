@@ -1,6 +1,6 @@
 # LUKA PRANGULASHVILI
 
-**'Junior Android Developer'**
+** 'Junior Android Developer' **
 
 I'm very motivated to become a skilled and
 professional Android developer. I believe I already
