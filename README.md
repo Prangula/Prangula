@@ -27,7 +27,10 @@ I'm very motivated to become a skilled and professional Android developer. I bel
     <td><img src="Screenshot_20231219-152841_Selfie.jpg" width="256" alt="Image 2"></td>
     <td><img src="Screenshot_20231219-152835_Selfie.jpg" width="256" alt="Image 3"></td>
   </tr>
-  
+    <tr>
+     <td><img src="Screenshot_20231219-152828_Selfie.jpg" width="256" alt="Image 8"></td>
+     <td><img src="Screenshot_20231214-144952_Selfie.jpg" width="256" alt="Image 8"></td>
+    <td><img src="Screenshot_20231214-144700.jpg" width="256" alt="Image 7"></td>
   
   <tr>
     <td><img src="Screenshot_20231214-144526_NewsAppMyself.jpg" width="256" alt="Image 1"></td>
@@ -39,10 +42,7 @@ I'm very motivated to become a skilled and professional Android developer. I bel
     <td><img src="Screenshot_20231214-144632_FoodApp.jpg" width="256" alt="Image 5"></td>
     <td><img src="Screenshot_20231214-144644_FoodApp.jpg" width="256" alt="Image 6"></td>
   </tr>
-  <tr>
-     <td><img src="Screenshot_20231219-152828_Selfie.jpg" width="256" alt="Image 8"></td>
-     <td><img src="Screenshot_20231214-144952_Selfie.jpg" width="256" alt="Image 8"></td>
-    <td><img src="Screenshot_20231214-144700.jpg" width="256" alt="Image 7"></td>
+
    
    
     
