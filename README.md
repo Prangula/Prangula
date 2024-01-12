@@ -4,6 +4,10 @@
 
 I'm very motivated to become a skilled and professional Android developer. I believe I already possess some skills that make me eligible to work as an intern. However,I recognize the importance of gaining more practical, real-time experience, which will provide me with opportunities to grow and learn essential skills.
 
+Find me: 
+(+995) 574-74-74-52
+prangula731@gmail.com
+
 ## Skills and Experience 
 
 * 💻 Kotlin
