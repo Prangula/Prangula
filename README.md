@@ -36,11 +36,6 @@ prangula731@gmail.com
     <td><img src="Screenshot_20231219-152932_Selfie.jpg" width="256" alt="Image 2"></td>
     <td><img src="Screenshot_20231219-152857_Selfie.jpg" width="256" alt="Image 3"></td>
   </tr>
-   <tr>
-    <td><img src="Screenshot_20231219-152850_Selfie.jpg" width="256" alt="Image 1"></td>
-    <td><img src="Screenshot_20231219-152841_Selfie.jpg" width="256" alt="Image 2"></td>
-    <td><img src="Screenshot_20231219-152835_Selfie.jpg" width="256" alt="Image 3"></td>
-  </tr>  
   <tr>
     <td><img src="Screenshot_20231214-144526_NewsAppMyself.jpg" width="256" alt="Image 1"></td>
     <td><img src="Screenshot_20231214-144538_NewsAppMyself.jpg" width="256" alt="Image 2"></td>
