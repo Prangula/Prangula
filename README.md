@@ -24,8 +24,8 @@ prangula731@gmail.com
 * 💻 Kotlin
 * 📱 Android
 * 👨‍💻 Firebase, Room Database, RESTful APIS
-* ✅ MVVM, COROUTINES
-* 🖥️ Retrofit, Gson, Json, XML, GLIDE, DEXTER
+* ✅ MVVM, CLEAN ARCHITECTURE, COROUTINES
+* 🖥️ Koin&Dagger, Retrofit, Gson, Json, XML, GLIDE, DEXTER
 
 ## Examples of Work
 
