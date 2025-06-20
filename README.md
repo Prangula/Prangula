@@ -2,7 +2,9 @@
 #### Android Developer
 
 
-I'm very motivated to become a skilled and professional Android developer. I believe I already possess some skills that make me eligible to work as an intern. However,I recognize the importance of gaining more practical, real-time experience, which will provide me with opportunities to grow and learn essential skills.
+I’m a passionate Android Developer with 2+ years of industry experience, currently working at Space International on an online mobile banking app (Space Uz).
+ I specialize in Kotlin, Jetpack Compose, Clean Architecture, and MVI, and I take pride in building secure, testable, and beautiful Android applications.
+ Always improving — I love clean code, scalable architecture, and impactful user experiences.
 
 Find me: 
 (+995) 574-74-74-52
