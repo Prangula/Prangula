@@ -23,38 +23,11 @@ prangula731@gmail.com
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> </p>
 
-* 💻 Kotlin
-* 📱 Android
-* 👨‍💻 Firebase, Room Database, RESTful APIS
-* ✅ MVVM, CLEAN ARCHITECTURE, COROUTINES
-* 🖥️ Koin&Dagger, Retrofit, Gson, Json, XML, GLIDE, DEXTER
-
-## Examples of Work
-
-<table>
-
-  <tr>
-    <td><img src="Screenshot_20231219-152938_Selfie.jpg" width="256" alt="Image 1"></td>
-    <td><img src="Screenshot_20231219-152932_Selfie.jpg" width="256" alt="Image 2"></td>
-    <td><img src="Screenshot_20231219-152857_Selfie.jpg" width="256" alt="Image 3"></td>
-  </tr>
-  <tr>
-    <td><img src="Screenshot_20231214-144526_NewsAppMyself.jpg" width="256" alt="Image 1"></td>
-    <td><img src="Screenshot_20231214-144538_NewsAppMyself.jpg" width="256" alt="Image 2"></td>
-    <td><img src="Screenshot_20231214-144554_NewsAppMyself.jpg" width="256" alt="Image 3"></td>
-  </tr>
-  <tr>
-    <td><img src="Screenshot_20231214-144621_FoodApp.jpg" width="256" alt="Image 4"></td>
-    <td><img src="Screenshot_20231214-144632_FoodApp.jpg" width="256" alt="Image 5"></td>
-    <td><img src="Screenshot_20231214-144644_FoodApp.jpg" width="256" alt="Image 6"></td>
-  </tr>
-
-   
-   
-    
-  
-  </tr>
-</table>
+* 💻 Kotlin, Jetpack Compose, XML, Material Design, Android Studio
+* 📱 AndroidX Navigation, Fragments, ViewModel, LiveData, StateFlow
+* 👨‍💻 Retrofit, REST APIs, Firebase (Auth, Firestore, Realtime DB)
+* ✅ Clean Architecture, MVVM, MVI, Modularization
+* 🖥️ Repository Pattern, UseCases, Dependency Injection (Koin, Dagger)
 
 
 
