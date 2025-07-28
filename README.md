@@ -7,7 +7,7 @@ I’m a passionate Android Developer with 2+ years of industry experience, curre
  Always improving — I love clean code, scalable architecture, and impactful user experiences.
 
 Find me: 
-(+995) 574-74-74-52
+(+49) 1736602587
 prangula731@gmail.com
 
 ## Skills and Experience 
