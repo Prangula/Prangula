@@ -2,9 +2,17 @@
 #### Android Developer
 
 
-I’m a passionate Android Developer with 2+ years of industry experience, currently working at Space International on an online mobile banking app (Space Uz).
- I specialize in Kotlin, Jetpack Compose, Clean Architecture, and MVI, and I take pride in building secure, testable, and beautiful Android applications.
- Always improving — I love clean code, scalable architecture, and impactful user experiences.
+Passionate Android Developer with 2+ years of experience,
+including 1 year at Space International, where I worked on
+a large-scale mobile banking app (20M+ users, TBC UZ). I
+specialize in Kotlin, Jetpack Compose, and Clean
+Architecture, with solid experience in feature
+development, debugging, and app redesign.
+Recently relocated to Germany (July 2025) and now fully
+focused on contributing my skills to the German market.
+Highly motivated, detail-oriented, and committed to
+building secure, scalable, and user-friendly Android
+applications.
 
 Find me: 
 (+49) 1736602587
